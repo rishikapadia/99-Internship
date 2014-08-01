@@ -1,7 +1,7 @@
 99-Internship
 =============
-Summer 2014
------------
+
+h3. Summer 2014
 
 My internship experience at 99 Cents Only Stores, LLC was different from most other internships because I was exposed to a range of technologies. They wanted me to experience the development tools that are used in a corporate setting, as opposed to the open-source technologies one would see at a startup.
 
