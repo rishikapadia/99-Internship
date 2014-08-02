@@ -2,16 +2,15 @@
 =============
 
 ###Summer 2014
-
+<br>
 My internship experience at 99 Cents Only Stores, LLC was different from most other internships because I was exposed to a range of technologies. They wanted me to experience the development tools that are used in a corporate setting, as opposed to the open-source technologies one would commonly see at a startup.
 
 As expected of a retail chain, a typical developer at 99 works to make the company run more efficiently and smoothly. As such, they are often working on several small projects at once, and during my 10 weeks at the company I got a taste of life at a corporation headquarters.
 
 Following are some of the major projects I have worked on as an IT intern at 99 Cents Only Stores:
- 
- 
- 
- 
+
+<br>
+
 ###[Planview-EPM Live Migration](https://www.google.com)
 
 Planview and EPM Live are online project management softwares. As second-in-charge of the entire migration process, I learned how to organize and manage complex projects, resource assignments, budget analyses, and the developmental aspects of the tools.
@@ -32,3 +31,8 @@ Helped create a SQL package on a Lawson database to generate and ftp a file with
 ###Static Analysis Code Review
 
 Using the SQL Enlight tool, helped improve readability and efficiency of SQL code. Determined/added relevant rulesets and updated processes in the tool.
+
+<br>
+<br>
+
+References available upon request.
