@@ -1,0 +1,51 @@
+html {
+	background: #123212;
+}
+
+.outer {
+	background-color: white;
+	width: 400px;
+	height: 350px;
+	margin: 100px auto;
+}
+
+.menu-title {
+	border-width: 1px;
+	background-color: #BBBBBB;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.main-button-group {
+	width: 85%;
+	margin: 0 auto;	
+}
+
+.main-button-group > button {
+	background: #EEEEEE;
+	width: 100%;
+	font-size: 20px;
+}
+
+.navigation {
+	width: 200px;
+	margin: 0 auto;
+	text-align: center
+}
+
+.boxgroup {
+	background: #EEEEEE;
+	width: 95%;
+	margin: 20px auto;
+}
+
+input {
+	width: 75%;
+}
+
+* {
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
