@@ -8,15 +8,13 @@ My internship experience at 99 Cents Only Stores, LLC was different from most ot
 As expected of a retail chain, a typical developer at 99 works to make the company run more efficiently and smoothly. As such, they are often working on several small projects at once, and during my 10 weeks at the company I got a taste of life at a corporation headquarters.
 
 Following are some of the major projects I have worked on as an IT intern at 99 Cents Only Stores:
-
-
+ 
+ 
+ 
+ 
 ###[Planview-EPM Live Migration](https://www.google.com)
 
-Planview and EPM Live are online project management softwares.
-
-desc
-
-Second-in-charge of the entire migration process.
+Planview and EPM Live are online project management softwares. As second-in-charge of the entire migration process, I learned how to organize and manage complex projects, resource assignments, budget analyses, and the developmental aspects of the tools.
 
 ###[HTML5 Store Scrap App](https://www.google.com)
 
@@ -24,9 +22,8 @@ Developed a prototype of an SSO Cycle Count to be used on handheld devices at th
 
 ###[HighJump 11 WebWise History Report](https://www.google.com)
 
-desc
-
-Currently a live WebWise report for 99.
+In HighJump 11, added a WebWise page to display transaction log history records.
+It is currently a live WebWise report used at 99 Cents Only Stores.
 
 ###Automate Barnett benefit file from Lawson
 
