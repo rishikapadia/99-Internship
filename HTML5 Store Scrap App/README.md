@@ -17,28 +17,16 @@ The following images display the behavior of the final app:
 
 Main Screen:
 
-<center>
-
 ![Image of Main Screen](https://github.com/rishikapadia/99-Internship/blob/master/HTML5%20Store%20Scrap%20App/StoreScrapApp%20Pics/pic-1-main.JPG)
-
-</center>
 
 <br>
 
 Article Look-up Screen:
 
-<center>
-
 ![Image of Article Look-up Screen](https://github.com/rishikapadia/99-Internship/blob/master/HTML5%20Store%20Scrap%20App/StoreScrapApp%20Pics/pic-2-article.JPG)
-
-</center>
 
 <br>
 
 Data Detail View:
 
-<center>
-
 ![Image of Data Detail Pull](https://github.com/rishikapadia/99-Internship/blob/master/HTML5%20Store%20Scrap%20App/StoreScrapApp%20Pics/pic-3-data.JPG)
-
-</center>
