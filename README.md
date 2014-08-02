@@ -15,7 +15,7 @@ Following are some of the major projects I have worked on as an IT intern at 99 
 
 Planview and EPM Live are online project management softwares. As second-in-charge of the entire migration process, I learned how to organize and manage complex projects, resource assignments, budget analyses, and the developmental aspects of the tools.
 
-###[HTML5 Store Scrap App](https://www.google.com)
+###[HTML5 Store Scrap App](https://github.com/rishikapadia/99-Internship/tree/master/HTML5%20Store%20Scrap%20App)
 
 Developed a prototype of an SSO Cycle Count to be used on handheld devices at the company's retail stores to keep track of item information. Uses ASP.NET and VB.NET as backend to the application, and runs on Microsoft Internet Information Services (IIS). The app, once enhanced with live databases, will be used to replace some of the older technologies currently used at the company.
 
