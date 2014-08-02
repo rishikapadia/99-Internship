@@ -14,10 +14,13 @@ The [asp](https://github.com/rishikapadia/99-Internship/tree/master/HTML5%20Stor
 The following images display the behavior of the final app:
 
 Main Screen:
+
 ![Image of Main Screen](https://github.com/rishikapadia/99-Internship/blob/master/HTML5%20Store%20Scrap%20App/StoreScrapApp%20Pics/pic-1-main.JPG)
 
 Article Look-up Screen:
+
 ![Image of Article Look-up Screen](https://github.com/rishikapadia/99-Internship/blob/master/HTML5%20Store%20Scrap%20App/StoreScrapApp%20Pics/pic-2-article.JPG)
 
 Data Detail View:
+
 ![Image of Data Detail Pull](https://github.com/rishikapadia/99-Internship/blob/master/HTML5%20Store%20Scrap%20App/StoreScrapApp%20Pics/pic-3-data.JPG)
