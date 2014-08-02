@@ -19,7 +19,7 @@ Planview and EPM Live are online project management softwares. As second-in-char
 
 Developed a prototype of an SSO Cycle Count to be used on handheld devices at the company's retail stores to keep track of item information. Uses ASP.NET and VB.NET as backend to the application, and runs on Microsoft Internet Information Services (IIS). The app, once enhanced with live databases, will be used to replace some of the older technologies currently used at the company.
 
-###[HighJump 11 WebWise History Report](https://github.com/rishikapadia/99-Internship/tree/master/HJ11%20Webwise%20History%20Report)
+###[HighJump 11 WebWise History Report](https://github.com/rishikapadia/99-Internship/tree/master/HJ11%20Webwise%20History%20Repor t)
 
 In HighJump 11, added a WebWise page to display transaction log history records.
 It is currently a live WebWise report used at 99 Cents Only Stores.
