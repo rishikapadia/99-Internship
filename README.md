@@ -11,7 +11,7 @@ Following are some of the major projects I have worked on as an IT intern at 99 
 
 <br>
 
-###[Planview-EPM Live Migration](https://www.google.com)
+###[Planview-EPM Live Migration](https://github.com/rishikapadia/99-Internship/tree/master/Planview-EPM%20Migration)
 
 Planview and EPM Live are online project management softwares. As second-in-charge of the entire migration process, I learned how to organize and manage complex projects, resource assignments, budget analyses, and the developmental aspects of the tools.
 
