@@ -1,0 +1,726 @@
+-Global Content
+--Conversion
+--Firefox 3.0
+--Master Document Content
+---0-Project Management
+----0.1 Issues
+----0.2 Plans
+----0.3 Status Reports
+----0.4 Scope Change Requests
+----0.5 Agenda's-Minutes
+---1-Discover
+----1.1 Project Capital Authorization Request
+----1.2 Project Capital Authorization Approval
+----1.3 Project Charter
+----1.4 Project Charter Approvals
+---2-Define
+----2.1 Functional Design
+----2.2 Functional Design Approvals
+---3-Design
+----3.1 Functional and Technical Detail Design
+----3.2 Functional and Technical Design Approval
+----3.3 Project Test Plan
+----3.4 Project Test Plan Approval
+----3.5 QA Environment_Data Set Up
+----3.6 QA Environment_Data Set Up Approval
+----3.7 User Review
+----3.8 Estimates
+---4-Develop
+----4.1 Project Code Review Approval
+----4.2 Package Design_SaaS Configuration
+----4.3 Package Design_SaaS Configuration Approval
+---5-Debug
+----5.1 QA Test Completion
+----5.2 QA Test Completion Approvals
+----5.3 QA Workbook
+----5.4 QA Workbook Approval
+----5.5 UAT Test Completion
+----5.6 UAT Test Completion Approval
+---6-Deploy
+----6.01 Architectural Design
+----6.02 Architectural Design Approval
+----6.03 Project Design Document
+----6.04 Project Design Document Approval
+----6.05 Infrastructure Project Design Document
+----6.06 Infrastructure Project Design Document Approv
+----6.07 Deployment Checklist-Operations Hand Off
+----6.08 Implementation Plan
+----6.09 Implementation Plan Approval
+----6.10 Project Capital Deployment Confirmation
+----6.11 Lessons Learned
+----6.12 Project Completion Document-Approvals
+--Planview Documentation
+--Planview SOPs
+-My Content
+-Work Procure to Pay, Inventory Mgt & Fin Int (SAP P2P)
+--Document Content
+---0-Project Management
+----0.1 Project Plan
+----0.2 Action Items/Issue Log
+-----0.1.1 Action Items Archive
+-----FTD's Action item log
+-----Future Release Wishlist
+-----Reporting Requirements
+----0.3 Executive Updates & Steering Committee Decks
+----0.4 Status Reports
+-----0.3.1 PWC Status Reports
+-----0.3.2 Integrated Team Meeting
+------ITM Archives
+-----0.3.3 Project Team Status Meeting
+-----0.3.4 Scoping Meeting
+-----0.3.5 RICEF Status Report
+-----0.4.1 Kickoff Meeting Deck
+-----0.4.2 Scoping Deck
+-----0.4.3 Steering Deck
+----0.5 Project Change Request (PCR)
+----0.6 Meeting Minutes
+-----GRC Meeting Minutes
+-----Integrated Meeting
+-----Scoping Meeting Minutes
+-----Team Status Meeting
+----0.8 ITSC Updates
+-----0.8.1 ITSC Archive
+----1.0 Active Directory
+-----1.0.1 AD Phase I
+-----1.0.2 AD Phase II
+-----Agenda and Slide Presentation
+----1.1 Other Software
+-----1.1.1 Winshuttle
+-----1.1.2 Document Imaging
+------Hyland Software_OnBase
+------Open Text
+------Readsoft
+-----1.1.3 Sales and Used Tax
+------1.1.3.1 ADP
+------1.1.3.2 Vertex
+-----1.1.4 PO FAX Integration
+-----1.1.5 SAP Productivity PAK
+-----1.1.6 SAP ALM/QC
+-----1.1.7 SOLMAN
+----1.2 Deliverables
+-----Deliverables Plan
+------Active Directory Plan
+------GRC Plan
+----1.3 Project Contact List
+----1.4 Training
+-----1.4.1 Savantis
+-----1.4.2 Winshuttle
+-----1.4.3 Productivity Pak (uPerform)
+----1.5 Project Approvals
+-----1.5.1 PCR Approvals
+-----1.5.2 GRC Approvals
+-----1.5.3 BDD Approvals
+-----1.5.4 Strategy Document Approvals
+-----1.5.5 Other Software
+----1.6 Resource Planning
+-----1.6.1 PWC Resource Plan
+-----1.6.2 99 Internal Resource Plan
+-----1.6.3 99 Internal Business Resource Plan
+----1.7 SAP Landscape
+----1.8 Cutover Checklist
+----1.9 User Role Mapping (Security)
+----2.0 BT Workshops
+----2.1 Master List of ALL Transports - DO NOT UPDATE
+---1-Discover
+----Charter Approvals
+----Exception Memos
+----Project Charter
+----Project Classification Document
+----Project Classification Document Approval
+---2-Define
+----Conversion Strategy
+-----Conversion Extract files
+----Interface Strategy
+----Test Strategy
+----Training Strategy
+---3-Design
+----3.0 Blueprint
+-----1. Workshop Documentation
+------i. Finance and Accounting
+-------Working Documents
+------ii. Merchandise Purchasing
+-------Working Documents
+------iii. Inventory Management
+-------Working Documents
+------iv. Logistics Integration
+-------Working Documents
+------v. Purchasing & Finance Integration
+-------Working Documents
+------vi. Infrastructure
+------vii. Non-Merchandising
+-------Working Documents
+------viii. Governance Risks & Compliance (GRC)
+-------GRC Security
+--------(1) Assess
+--------(2) Design
+---------GRC Approvals
+-----2. Blueprint Design Documents
+-----3. Optima Design Document
+----3.1 Functional and Technical Design
+-----3.1.1 Asset Master Conversion Design
+-----3.1.2 Open Purchase Order Conversion Design
+-----3.1.3 Vendor Conversion Design
+-----3.1.4 Bank Master Conversion Design
+-----3.1.5 Vendor Outbound Design
+-----3.1.6 Article Extract
+-----3.1.7 Buyer ID Interface MQ to MSI
+-----3.1.8 Open Inventory Balance Conversion Design
+-----3.1.9 Reporting
+------Accounts Payable
+------Budget and Planning
+------Cash Book
+------Fixed Assets
+------Genral Ledger
+------Internal and External management reporting
+------Inventory Accounting
+------Old Reporting Control Matrix
+------Purchasing Reports I
+------Purchasing Reports II
+------Purchasing Reports lll
+------Sales Audit
+------Tax Reporting
+-----3.2.1 PO outbound interface MQ to TSI
+-----3.2.10 AP Open Items
+-----3.2.10 Turn Off PO Posting .NET
+-----3.2.11 Turn Off Warehouse ITM Screen- Accuterm
+-----3.2.12 Lawson Payroll J/E interface to SAP
+-----3.2.2 PO outbound interface TSI to Accuterm
+-----3.2.3 Article outbound interface MQ to AT
+-----3.2.4 Article outbound interface MQ to MSI/MDR
+-----3.2.5 Asset Balance
+-----3.2.6 Vendor Balance
+-----3.2.7 Vendor Outbound Design MSI to Accuterm
+-----3.2.8 Buyer Interface ( MSI to AT)
+-----3.2.9 Disable PO Menus - Accuterm
+-----3.3.1 Article interface(Ti/Hi dimensions)HJ to TSI
+-----3.3.2 SAP Back Office
+-----3.3.3 Inventory Sync Report
+-----3.3.4 Bank Deposit Functional Design
+-----Conversion Cross Ref Tables
+-----Early Vendor Creation
+-----Functional/Technical Specs from PwC
+------Procure to Pay / Inventory Management
+-------Conversion (Master & Transaction)
+-------Interfaces - Inbound
+--------Archives
+-------Interfaces - Outbound
+--------Article Outbound Spreadsheets
+-------Reports / Forms / Enhancements
+------Record to Report
+-------Archives
+-------Conversion (Master & Transaction)
+-------Interfaces - Inbound
+-------Interfaces - Outbound
+-------Reports / Forms / Enhancements
+------Reporting Workstream
+------Sales Audit (POSDM) and BW
+-----Inventory Sync Report
+-----Invoice Extraction for 1099 Report
+-----Transformation Files
+------AP Open Items
+------Asset Master
+------Vendor Bank
+------Vendor Conversion
+----3.3 Project Test Plan
+----3.4 CRP Documents
+-----CRP Action-Items & Issues List
+-----CRP Meeting Minutes
+-----CRP Presentations
+----3.5 Design PowerPoint Decks
+----3.6 Security Design
+---4-Develop
+----Package Design_SaaS Configuration
+-----Package Design_SaaS Configuration
+-----Package Design_SaaS Configuration Approvals
+----Reports
+-----Future State Reports
+----TB Conversion Documents
+-----FY2012 TB Conversion
+-----FY2013 TB Conversion
+------FY13 P01 TB
+------FY13 P02 TB
+------FY13 P03 TB
+------FY13 P04 TB
+------FY13 P05 TB
+------FY13 P06 TB
+------FY13 P07 TB
+------FY13 P08 TB
+------FY13 P09 TB
+------FY13 P10 TB
+------FY13 P11 TB
+------FY13 P12 TB
+-----FY2014 TB Conversion
+------FY14 P01 TB
+------FY14 P02 TB
+------FY14 P03 TB
+------FY14 P04 TB
+------FY14 P05 TB
+------FY14 P06 TB
+------FY14 P07 TB
+------FY14 P08 TB
+------FY14 P09 TB
+------FY14 P10 TB
+-----FY2015 TB Conversion
+------FY15 P01 TB
+------FY15 P02 TB
+------FY15 P03 TB
+------FY15 P04 TB
+------FY15 P05 TB
+------FY15 P06 TB
+----Testing
+-----GRC
+------QA Test Scenario Documents
+------QA Test Scripts
+-----Unit Test Scripts
+------Procure to Pay / Inventory Management
+-------Conversion (Master & Transaction)
+-------Interfaces - Inbound
+-------Interfaces - Outbound
+-------Reports / Forms / Enhancements
+------Record to Report
+-------Conversion (Master & Transaction)
+-------Interfaces - Inbound
+-------Interfaces - Outbound
+-------Reports / Forms / Enhancements
+------Reporting Workstream
+------Sales Audit(POSDM)
+----Training
+-----Summary Cheat Sheet
+-----uPerform Instructional Documents
+------FICO
+------P2P
+------Udc Files in old templete
+---5-Debug
+----GRC
+-----QA Completion Document
+-----QA Workbook
+-----UAT Completion Document
+----Testing
+---6-Deploy
+----0.1 Transport Spreadsheets
+-----1.0 Current Transport Spreadsheets
+-----1.1 Spreadsheets as of 8/2/13 - Mock Cutover 1
+-----1.2 Spreadsheets as of 9/27/13-Post Mock Cutover 2
+-----1.3 Spreadsheet as of 10/11/13 -Pre Mock Cutover 3
+-----1.4 Spreadsheet as of 12/18/13 - Pre Cycle 3 Test
+-----1.5 Spreadsheet as of 2/19/2014 - Cycle 3 Test
+-----1.6 Spreadsheet as of 4/28/2014 - Cycle 4 Test
+-----1.7 POSDM / BW Spreadsheets
+----0.2 Change Request Forms
+---7-Security and Access Controls (GRC)
+----7.1 Phase I
+-----7.0 Project Management
+------7.0.1 Meeting Agenda
+-----7.1.1 Define
+-----7.1.2 Design
+-----7.1.3 Debug
+-----7.1.4 Deploy
+------7.1.4.1 Training
+-------Access Request (ARM)
+-------Deprovisioning
+-------Emergency Access (EAM)
+-------Lock/Unlock
+-------SOD/Mitigating Controls
+------7.1.4.2 Implementation Plan
+----7.2 Phase II
+-----7.2.0 Project Management
+------7.2.0.1 Security Design Project Plan
+------7.2.0.2 Security Design Presentation
+------7.2.0.3 Status Reports
+------7.2.0.4 Security Design Meeting Minutes
+-----7.2.1 Define
+------CCB Documents
+-----7.2.2 Design
+------Design CCB Documents
+-----7.2.3 Develop
+-----7.2.4 Debug
+------CCB Documents
+-----7.2.5 Deploy
+------Deploy CCB Documents
+---8-Winshuttle
+----8.0 Other Documentation
+----8.1 Phase I
+-----8.1.1 Define
+-----8.1.2 Design
+-----8.1.3 Debug
+-----8.1.4 Deploy
+------8.1.4.0 Training
+-------WS_Day1
+-------WS_Day2
+----8.2 Phase II
+-----8.2.1 Define
+-----8.2.2 Design
+-----8.2.3 Debug
+-----8.2.4 Deploy
+---9-Imaging Solution
+----9.1 Optima
+----9.2 OpenText
+---ALM/HP QC
+----1. Deliverables
+----2-Define
+----3-Design
+----4-Develop
+-----BPML Test Scripts
+-----RICEF Test Scripts
+------Procure to Pay / Inventory Management
+-------Conversion (Master & Transaction)
+--------AP Open Items
+--------Article Master Conversion
+--------Open Inventory Balance Conversion
+--------Open PO Conversion
+-------Interfaces - Inbound
+--------Appointment Close
+--------Appointment Scheduling / Cancellations
+--------Bargain Wholesale
+--------Cash and Carry Returns
+--------Cash and Carry Shipping
+-------Interfaces - Outbound
+--------Article Outbound
+--------Buyer
+--------DC Status Change
+--------Goods Receipts Adjustments
+--------Goods Receipts Against PO
+--------Goods Receipts Against PO Stock Transfer to Store
+--------Goods Shipment
+--------PO Outbound Interfaces
+--------Stock Campus Transfer
+--------Stock Transfer in HJ11
+--------Stock Transfer in HJ9
+--------Stock Transfer Receiving
+-------Other
+--------AT Changes for PO Entry
+--------Turnoff Warehouse ITM Screen
+-------Reports / Forms / Enhancements
+--------Article Custom Screen
+--------Inventory Transaction Reprocessing
+--------PO Custom Tab
+--------PO Exception Handling
+--------Stock Overview Report
+------Record to Report
+-------Conversion (Master & Transaction)
+--------Asset Master and Balance Conversion
+--------Bank Master Conversion
+--------Cost Center Conversion
+--------GL Master Data Conversion
+--------GL Opening Balance Conversion
+--------Profit Center Conversion
+--------Vendor Master Conversion
+-------Interfaces - Inbound
+-------Interfaces - Outbound
+--------Vendor Master Outbound
+-------Reports / Forms / Enhancements
+--------AP Cash Discount Lost Report
+----5-Debug
+----6-Deploy
+---P2P FICO - TCS Project Closure Deliverables
+---uPerform
+----Phase I
+-----10.1.1 Define
+-----10.1.2 Design
+-----10.1.3 Debug
+-----10.1.4 Deploy
+------10.1.4.1 Training Documentation
+-------uPerform Admin
+-------uPerform_Workflow_Integration
+----Phase II
+-----10.2.1 Define
+-----10.2.2 Design
+-----10.2.3 Debug
+-----10.2.4 Deploy
+-->: CAP Labor Requirements
+--->: PROJECT MANAGEMENT
+---->: SAP Ph2 PM Activities
+--->: DESIGN
+---->: SAP Ph 2 Design Activities
+--->: DEVELOP
+---->: SAP Ph 2Develop Activities
+---->: P2P SQL.PO.DECODE Converted Partial POs
+--->: DEBUG
+---->: SAP Ph 2 Debug Activities
+---->: SAP Ph 2 Testing/UAT Activities
+--->: DEPLOY
+---->: SAP Ph 2 Deploy Activities
+--->: IPJ Estimate
+---->: PROJECT MANAGEMENT - OLD
+-----0.1 Issues
+-----0.2 Plans
+-----0.3 Status Reports
+-----0.4 Scope Change Requests
+-----0.5 Agenda and Minutes
+----->: Project Status Meetings
+----->: General PM Activities
+--->: DISCOVER - OLD
+----99Cent Phase 2 Scope XLS
+----Blueprint Sessions
+----IPJ Discover Documents
+----Project Charter
+----Project Charter Approvals
+---->: PWC Planning Sessions
+---->: Discover Meetings
+---->: Draft Project Charter
+---->: Review & Contribute to Project Charter
+---->: Finalize Project Charter and PCD
+---->: Project Charter and PCD Approved
+---->: Team Review of Project Plan
+---->: Draft Kickoff Presentation
+---->: Project Charter - 2
+---->: Revised Project Charter Approved
+---->: Project Plan
+---->: Kickoff Meeting Planning & Preparation
+---->: Project Kickoff
+--->: DEFINE - OLD
+----2.1 Functional Design
+----2.2 Functional Design Approvals
+---->: Define Releases & Create Functional Reqs (FTD)
+---->: Review and Refine Functional Requirements (FTD)
+---->: Approved FTD - Functional Requirements Section
+---->: Conversion Strategy
+----->: Conversion Strategy Draft
+----->: Conversion Strategy Review and Approval
+---->: Interface Strategy
+----->: Interface Strategy Review and Approval
+---->: Testing Strategy
+----->: Testing Strategy Document
+----->: Testing Strategy Review and Approval
+---->: Training Strategy
+---->: PI/ECC Sizing Update
+--->: DESIGN - OLD
+----3.1 Functional and Technical Design
+----3.2 Functional and Technical Design Approvals
+----3.3 Project Test Plan
+----3.4 Project Test Plan Approvals
+---->: Design PM Activities
+---->: Design Basis Activities
+----->: Procure To Pay
+------>: Procure To Pay: Blueprint
+------->: P2P Blueprint Design Sessions
+------->: P2P Blueprint Design Document
+-------->: P2P Master Data Design & Maintenance
+-------->: P2P Transaction Processing
+-------->: P2P Line Item & Summary Reporting
+------->: P2P BDD Review & Approval
+------>: Procure To Pay: Functional & Technical Requirement
+------->: P2P Functional Specifications for RICEF Objects
+-------->: P2P: Functional Design RICEF
+-------->: P2P: FDD Enhancements Objects
+-------->: P2P: FDD Forms Object
+-------->: P2P: FDD Interface Objects
+-------->: P2P: FDD Report Objects
+------->: P2P Technical Specifications for RICEF Objects
+-------->: P2P: TDD Conversion
+-------->: P2P: TDD Other
+-------->: P2P: TDD Intefaces
+------->: P2P Functional/Technical Requirements Approval
+------->: P2P Estimate Dev Work Effort & Assign Res to Obj
+------>: Procure To Pay: Testing
+------->: P2P Create Test Plans / Review Testing
+------>: Procure To Pay: Training
+------->: Create Training Curriculum
+------->: Create Training Schedule Document
+------->: Final Approval of Training Documents
+----->: Financials
+------>: Financials : Blueprint
+------->: Blueprint Session - Period End Close
+------->: R2R/A2R Blueprint Design Sessions
+------->: R2R/A2R Blueprint Design Document
+-------->: R2R: Master Data Design & Maintenance
+-------->: R2R: Transaction Processing (Non Merch&Merch)
+-------->: R2R: Line Item & Sum Reporting (Vendor, Inv,Pymt)
+------->: Financials: BDD Review & Approval
+------>: Financials: Functional & Technical Requirements
+------->: Functional Specifications for RICEF Objects
+-------->: Financials: FDD Master Data
+-------->: Financials: FDD Conversion
+-------->: Financials: FDD Other
+-------->: Financials: FDD Interface Objects
+------->: Technical Specifications for RICEF Objects
+-------->: Financials: TDD Conversion
+-------->: Financials: TDD Other
+-------->: Financials: TDD Interface Objects
+------->: Functional & Technical Spec Review & Approval
+------->: Development Work Effort Analysis
+-------->: FICO: Est Dev Work Effort & Assign Res to Objects
+------>: Financials: Testing
+------->: R2R Create Test Plans / Testing Review
+------>: Financials: Training
+------->: Create Training Curriculum
+------->: Create Training Schedule Document
+------->: Final Approval of Training Documents
+----->: Inventory Management
+------>: Inv Mgt: Blueprint
+------->: DC & Logistics Mapping Sessions
+------->: Blueprint Session - DC & Log (DC Goods Movement)
+------->: Blueprint Session - Logistics Invoice Verification
+------->: Inv Mgt: Blueprint Design Sessions
+------->: Inv Mgt: Blueprint Document
+----->: Design
+------>: Blueprint Design Docs (BDD)
+------>: Functional Design Docs (FDD)
+------>: Technical Design Docs (TDD)
+----->: Conference Room Pilot (CRP)
+----->: CRP Completed
+----->: Early Adoption
+--->: Blueprint Sessions -OLD
+---->: Blueprint Session - Accounts Receivable
+---->: Blueprint Session-Store Perpetual Inventory
+---->: Blueprint Session - DC & Log (Store Goods Movement
+---->: Blueprint Session - Rebate Agreement & Settlement
+---->: Blueprint Session - EDW Interface
+---->: Blueprint Session - DC & Logistics Integration III
+---->: Blueprint Session - Non Merch Purchasing I (IT)
+---->: Blueprint Session - Non Merch Purchasing I
+---->: Blueprint Session - EDI/Partner Integration
+---->: Blueprint Session - DC Replenishment
+---->: Blueprint Session - Store Portal/Handheld Integrat
+---->: Pre Design Sessions
+---->: Blueprint Sessions thru July 27
+---->: Design Sessions
+--->: DEVELOP - OLD
+---->: Environment Readiness
+----->: Env Readiness: Dev Envionment
+----->: Env Readiness: Test Envionment
+----->: Env Readiness: QA Envionment
+----->: Env Readiness: Hardware (Network ) Configuration
+---->: Development
+----->: Devt & Unit Testing: Procure To Pay
+----->: Devt & Unit Testing: Financials
+----->: Devt & Unit Testing: Store Inv Acctg & 2 Way Match
+----->: Devt & Unit Testing: DSD/Drop Ship to TSI
+----->: Devt & Unit Testing: Outbound and Inbound Article
+----->: Devt & Unit Testing: Inb Article, PO Conv, Inv
+----->: Dev & Unit Testing:Vendor conversion to P2P
+----->: P2P.ARTICLE.MASTER.EXTRACT: Inact Vend & PO Price
+----->: P2P Extract Moving Avg Price (cost) from x1
+----->: P2P OPEN.PO.PURGE.RPT titem & PO list
+----->: UPerform Training, Setup & Configuration
+---->: Testing
+----->: Create Data Setup Document
+----->: Create Test Scenarios
+---->: Training
+----->: Training Documentation
+---->: Develop General PM Activities
+--->: DEBUG - OLD-----
+---->: TESTING
+----->: Integration testing
+------>: Integration Test Cycle 1
+------>: Integration Test Cycle 2
+------>: Integration Test Cycle 3
+----->: Integration Testing - 2
+----->: Performance Testing
+------>: Performance Testing Cycle
+----->: Performance Testing - 2
+----->: User Acceptance Testing
+------>: User Acceptance Testing & Signoff
+----->: UAT
+---->: Finalize Production Environment
+----->: Finalize Cutover Plans
+----->: Verify Production & Support Environment Ready
+----->: Sign Off on Production Infrastructure
+--->: DEPLOY (Operate - GoLive Support) - OLD
+---->: Training
+----->: Business Process Training (Project Execution Team)
+----->: Configuration Training (Project Execution Team)
+----->: End User Training
+----->: Training
+---->: Go Live Planning
+----->: Installation
+----->: Create Preliminary Go-Live Plan
+------>: Define User Support Strategy
+------>: Define Systems Handover Strategy
+------>: Handover Application Management
+------>: Setup User Support
+------>: Setup Solution Management Procedures
+------>: Setup Solution Monitoring
+---->: Make Decision to Go Live
+----->: Conduct Technical Infrastructure Readiness Review
+----->: Conduct Conversion Readiness Review
+----->: Conduct Interface Readiness Review
+----->: Conduct Custom Programs Readiness Review
+----->: Conduct End User Readiness Review
+----->: Present Readiness Review Summary & Make Go/No-Go
+---->: Go Live and Support Review
+----->: Prepare Go Live & Support Review
+----->: Conduct Application/Implementation Review
+----->: Follow-up Go Live & Support Review Recommendations
+---->: Final Approval for Go Live
+----->: Confirm Production Readiness
+----->: Review Post Implementation Plan Walk-through
+---->: Perform Cutover to Production System
+----->: Confirm Production System is Ready for Cutover
+----->: Transport Config and Development Objects to
+----->: Load Manual Configuration Settings
+----->: Perform Manual Entries
+----->: POS initialization
+----->: Perform Data Conversions
+----->: Execute Data Conversion Reconciliation
+---->: Production Rollout
+---->: GO LIVE
+----->: Resolve Live Business Process Issues
+----->: Monitor Daily and Weekly Transactions
+----->: Post Go Live Training
+---->: Close First Production Period
+----->: Finalize Period End Procedures
+----->: Complete 1st Production Period Reconciliation Plan
+---->: Support Transition
+---->: Project Closure
+----->: Complete Solution Assessment
+----->: End User Transition
+----->: Lesson Learned
+--->: Security & Access Controls Implementation - OLD
+---->: GRC Phase 1
+----->: DESIGN
+------>: GRC DESIGN
+------->: GRC Phase I Design
+-------->: GRC Workflow Document
+-------->: GRC Design
+---------GRC Design Documents
+------->: GRC /AD Design
+------->: GRC Phase I Design - 2
+----->: DEVELOP
+------>: GRC Env Installation & Configuration
+------->: Install GRC Server
+-------->: GRC - DEV - OLD
+-------->: GRC - DEVELOPMENT ENV
+--------->: Install SAP Netweaver - DEV
+---------->: Apply Netweaver Support Packs 11
+--------->: Install GRC-10 - DEV
+---------->: Download software components
+---------->: Install GRC 10
+--------->: Setup End User connectivity(NWBC) - DEV
+---------->: Portal, RFC
+-------->: GRC -QA ENV
+--------->: Install SAP Netweaver - QA
+--------->: Install GRC-10 - QA
+--------->: Setup End User connectivity(NWBC) - QA
+-------->: GRC - PRD ENV
+--------->: Install SAP Netweaver - PRD
+--------->: Install GRC-10 - PRD
+--------->: Setup End User connectivity(NWBC) - PRD
+------->: Setup & Configuration (PWC)
+------>: GRC: Training Documents (PWC)
+----->: DEBUG
+------>: GRC: QA Testing
+------>: AD: Testing & Documentation
+----->: DEPLOY
+------>: GRC Training
+------>: AD: Phased Rollout of New User Account
+------>: GRC: Go Live Planning
+------>: GRC Phase I -Go Live
+---->: GRC Roles Phase 2
+----->: GRC Ph 2: Design Activities
+----->: GRC Ph 2: Debug
+----->: GRC Phase 2 Roles Implementation
+--->: Winshuttle Implementation - OLD
+---->: PHASE I - Mass Uploads
+----->: DESIGN
+------>: Hardware / Software Pre-requisite Requirements
+----->: DEVELOP
+------>: Winshuttle: Installation & Training
+------>: Winshuttle: Setup & Configuration
+----->: DEBUG
+------>: Winshuttle: Testing
+----->: DEPLOY
+------>: Deployment to Production
+------>: Winshuttle Phase 1 Go Live
+---->: PHASE 2 - Workflows
+----->: Winshuttle Phase 2 Go Live
