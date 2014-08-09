@@ -11,5 +11,5 @@ I then used macros in a text editor to format that file to create [hierarchy.txt
 
 [createhierarchy.py](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/hierarchy/createhierarchy.py) is the script that takes the hierarchy text file and produces the hierarchy folder structure at the location specified upon input.
 
-[final\_structure.txt](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/hierarchy/final_structure.txt) is the final folder hierarchy created by the script. The text file has been obtained by running <code>tree -A > final\_structure.txt</code> in windows powershell.
+[final\_structure.txt](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/hierarchy/final_structure.txt) is the final folder hierarchy created by the script. The text file has been obtained by running <code>tree -A > final\_structure.txt</code> in Windows PowerShell.
 
