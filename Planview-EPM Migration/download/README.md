@@ -35,5 +35,3 @@ downloadfiles.js
 
 change_filenames.py
 
-(In Progress)
-
