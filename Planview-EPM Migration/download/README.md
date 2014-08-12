@@ -1,7 +1,29 @@
 Download
 ========
 
-view all content
+The way to download documents manually, one at a time, was to click on a particular document's name:
+
+![Main](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/planview-pics/main.jpg)
+
+This would take you to a detail-view. From here, clicking on "Read" would automatically download the file to your computer.
+
+![Read Document](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/planview-pics/read.jpg)
+
+
+
+(In Progress)
+
+
+
+To automate downloading all files from Planview, I needed to find a list of all documents. If we look back to the main documents page:
+
+![Main Page](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/planview-pics/main.jpg)
+
+I found this by clicking on "View all content" in the upper right-hand corner:
+
+![view all content](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/planview-pics/view_content.jpg)
+
+
 
 frame_source.txt
 
