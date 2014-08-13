@@ -9,5 +9,3 @@ Among other tools, I used the following to do so:
 2. Python scripts (example in [modifytasklist.py](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/upload/modifytasklist.py))
 3. Microsoft Word Macros
 
-(In Progress)
-
