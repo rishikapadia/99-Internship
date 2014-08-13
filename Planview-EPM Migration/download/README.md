@@ -21,6 +21,17 @@ I found this by clicking on "View all content" in the upper-right corner:
 
 ![View all content](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/planview-pics/view_content.jpg)
 
+A look at the source code of this page:
+
+![Vew all content source](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/planview-pics/doc_ids.jpg)
+
+Looking through the different HTML tables on this page, it is confirmed that each document link has a document ID associated with it.
+
+The entire source code can be seen in [frame_source.txt](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/download/frame_source.txt).
+
+I created and ran the script in [downloadcodes.py](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/download/downloadcodes.py) to extract all document IDs into a list, which was saved in [content_codes.txt](https://github.com/rishikapadia/99-Internship/blob/master/Planview-EPM%20Migration/download/content_codes.txt).
+
+
 
 
 
@@ -28,11 +39,7 @@ I found this by clicking on "View all content" in the upper-right corner:
 
 
 
-frame_source.txt
 
-downloadcodes.py
-
-content_codes.txt
 
 downloadfiles.js
 
