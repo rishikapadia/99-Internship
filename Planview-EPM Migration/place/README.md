@@ -29,5 +29,5 @@ Each entry in this navigation list contains a link, which calls a javascript fun
 
 In conclusion, we are now able to crawl through the Planview site, determine the contents of each folder, download documents, and recurse through the subdirectories to recreate the entire structure on a local or shared drive.
 
-(In Progress)
+Due to severe time constraints, we had only 2 days to retrieve all data from Planview. Since this method would have taken a lot longer to implement due to security authorizations via web scraping, we opted for downloading all documents as our primary priority (see [download](https://github.com/rishikapadia/99-Internship/tree/master/Planview-EPM%20Migration/download)).
 
